@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktouchgfx_documentation=self.webpackChunktouchgfx_documentation||[]).push([[33266],{33266:(t,u,c)=>{c.r(u)}}]);
